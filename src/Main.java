@@ -50,7 +50,7 @@ public class Main {
                 if (monsterX != -1) {
                     System.out.println("Монстр: (" + monsterX + ", " + monsterY + ")");
                 } else {
-                    System.out.println("Монстра больше нет!");
+                    System.out.println("Монстр побежден!");
                 }
                 System.out.println("Замок: (" + castleX + ", " + castleY + ")");
 
